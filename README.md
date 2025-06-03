@@ -1,3 +1,3 @@
 # AdventOfCode
 
-Advent of code [challenges](https://adventofcode.com/).
+Advent of code [challenges](https://adventofcode.com/){:target="_blank"}.
